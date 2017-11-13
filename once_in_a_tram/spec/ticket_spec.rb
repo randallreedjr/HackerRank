@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 describe Ticket do
   describe 'lucky?' do
     context 'when ticket number is lucky' do
